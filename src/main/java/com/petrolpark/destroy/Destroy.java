@@ -48,7 +48,7 @@ import com.petrolpark.destroy.util.vat.VatMaterial;
 import com.petrolpark.destroy.world.damage.DestroyDamageTypes;
 import com.petrolpark.destroy.world.loot.DestroyLoot;
 import com.petrolpark.destroy.world.village.DestroyVillagers;
-import com.petrolpark.registrate.PetrolparkRegistrate;
+//import com.petrolpark.registrate.PetrolparkRegistrate;
 import com.simibubi.create.content.equipment.goggles.GogglesItem;
 import com.simibubi.create.foundation.item.ItemDescription;
 import com.simibubi.create.foundation.item.KineticStats;
